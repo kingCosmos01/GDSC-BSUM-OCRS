@@ -3,7 +3,7 @@ BSUM(Benue State University Makurdi) OCRS(Online Crime Reporting System ) is a q
 
 
 # Contributing
-Bug reports and pull requests are welcome on GitHub at github.com/Dankummzy/GDSC-BSUM-OCRS
+Read the contributing.md file to catch a glimpse of how to contribute to this project. Bug reports and pull requests are welcome on GitHub at github.com/Dankummzy/GDSC-BSUM-OCRS 
 
 
 # Licence
