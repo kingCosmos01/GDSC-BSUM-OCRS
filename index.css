@@ -1,0 +1,56 @@
+body{
+    font-family: 'Mukta', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    height: 100vh;
+    background-color: #051a2d;
+}
+
+.container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.container img{
+    margin-top: 50px;
+    width: 260px;
+    height: 260px;
+    margin-bottom:-10px;
+
+}
+
+.container h1{
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    font-size: 60px;
+    cursor: pointer;
+}
+
+.container h3{
+    text-align:center;
+    color: red;
+    cursor: pointer;
+    font-size: 40px;
+}
+
+.container button{
+    width: 120px;
+    height: 30px;
+    color: #051a2d;
+    font-size: 16px;
+    font-weight: bold;
+    margin: 50px;
+}
+
+.container button:hover {
+    background: #051a2d;
+    color: white;
+    border: 1px solid white;
+}
+
+
